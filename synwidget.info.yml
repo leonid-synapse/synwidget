@@ -1,0 +1,6 @@
+name: Synapse widget
+description: 'add custom widget'
+type: module
+core: 8.x
+version: 1.0
+package: Synapse

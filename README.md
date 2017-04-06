@@ -1,2 +1,3 @@
 # synwidget
-Widget that allow empty value for timestamp fields
+
+Модуль добавляет виджет для полей типа "Время" (timestamp), который позволяет сохранять пустое значение в поле.
